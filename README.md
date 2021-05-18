@@ -18,7 +18,7 @@ new Me({
 })
 ```
 
-![Homem Letra](http://infeduc.pbworks.com/f/Gif%20homem%20letrado.gif)
+![Homem Letra](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F8QKc&psig=AOvVaw2UOwNEFQIpWwzld2FJAbYR&ust=1621393880224000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCh8oOh0vACFQAAAAAdAAAAABAN)
 
 <!--
 *Diego-Peixoto/Diego-Peixoto* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
