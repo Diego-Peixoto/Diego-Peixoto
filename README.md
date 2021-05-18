@@ -16,10 +16,10 @@ new Me({
           new English({...this.knowledge})],
   job: 'Electronics Salesman',
 })
-```
+
 !(![8QKc (1)](https://user-images.githubusercontent.com/83557426/118585098-9c35f700-b76e-11eb-95bf-ecd6617faf6f.gif))
 )
-
+```
 <!--
 *Diego-Peixoto/Diego-Peixoto* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
