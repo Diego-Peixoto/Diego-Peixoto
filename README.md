@@ -2,7 +2,7 @@
 
 ###### I am Diego, and i'm twenty year old! lol
 
-ts
+'''ts
 interface Beginer extends OneYear {}
 
 new Me({
