@@ -2,7 +2,7 @@
 
 ###### I am Diego, and i'm twenty year old! lol
 
-'''js
+"""js
 interface Beginer extends OneYear {}
 
 new Me({
@@ -16,7 +16,7 @@ new Me({
           new English({...this.knowledge})],
   job: 'Electronics Salesman',
 })
-'''
+"""
 
 ![Homem Letra](http://infeduc.pbworks.com/f/Gif%20homem%20letrado.gif)
 
