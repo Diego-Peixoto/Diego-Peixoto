@@ -17,8 +17,7 @@ new Me({
   job: 'Electronics Salesman',
 })
 ```
-
-![Homem Letra](![8QKc](https://user-images.githubusercontent.com/83557426/118584990-6abd2b80-b76e-11eb-825a-08817cf56a03.gif)
+![Homem Letra](![8QKc (1)](https://user-images.githubusercontent.com/83557426/118585098-9c35f700-b76e-11eb-95bf-ecd6617faf6f.gif))
 )
 
 <!--
