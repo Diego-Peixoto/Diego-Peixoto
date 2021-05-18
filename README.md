@@ -16,7 +16,7 @@ new Me({
           new English({...this.knowledge})],
   job: 'Electronics Salesman',
 })
-
+'''
 
 ![Homem Letra](http://infeduc.pbworks.com/f/Gif%20homem%20letrado.gif)
 
