@@ -8,7 +8,7 @@ interface Beginer extends OneYear {}
 new Me({
   name: 'Diego Peixoto',
   country: 'Brazil',
-  old: 20,
+  old: 21,
   study: [new NodeJs({...this.knowledge}), 
           new TypeScript({...this.knowledge}), 
           new ReactJS({...this.knowledge}), 
