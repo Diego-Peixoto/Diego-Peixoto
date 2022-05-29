@@ -9,12 +9,10 @@ new Me({
   name: 'Diego Peixoto',
   country: 'Brazil',
   old: 21,
-  study: [new NodeJs({...this.knowledge}), 
-          new TypeScript({...this.knowledge}), 
-          new ReactJS({...this.knowledge}), 
+  study:
           new Firebase({...this.knowledge}), 
           new English({...this.knowledge})],
-  job: 'Electronics Salesman',
+  job: 'Costoumer Experience',
 })
 ``` 
 ![8QKc (1)](https://user-images.githubusercontent.com/83557426/118585291-f5058f80-b76e-11eb-81ce-fa1e90075354.gif)
