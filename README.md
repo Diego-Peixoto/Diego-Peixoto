@@ -8,7 +8,7 @@ interface Beginer extends OneYear {}
 new Me({
   name: 'Diego Peixoto',
   country: 'Brazil',
-  old: 21,
+  old: 24,
   study:
           new Firebase({...this.knowledge}), 
           new English({...this.knowledge})],
